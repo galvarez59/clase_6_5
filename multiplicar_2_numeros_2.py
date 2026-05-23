@@ -23,10 +23,10 @@ ventana = tk.Tk()
 ventana.title("Multiplicador de Dos Números")
 
 # Etiquetas para los cuadros de entrada
-etiqueta1 = tk.Label(ventana, text="Ingrese numero 1:")
+etiqueta1 = tk.Label(ventana, text="Ingrese numero_1:")
 etiqueta1.grid(row=0, column=0)
 
-etiqueta2 = tk.Label(ventana, text="Ingrese numero 2:")
+etiqueta2 = tk.Label(ventana, text="Ingrese numero_2:")
 etiqueta2.grid(row=1, column=0)
 
 # Cuadros de entrada para los números
